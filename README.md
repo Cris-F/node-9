@@ -98,7 +98,9 @@ The point of this embarrassing self-aggrandizement is to give you one simple pic
 **```I'll be there, I'll do the work and I'll push limits.```**
 
 Please send votes my way.
-RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW                   ![n9 Address QR](https://github.com/Cris-F/node-9/blob/master/n9_address_QR.png "node-9 vote address QR")
+
+RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW
+![n9 Address QR](https://github.com/Cris-F/node-9/blob/master/n9_address_QR.png "node-9 vote address QR")
 
 Thanks!
 
