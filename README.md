@@ -20,6 +20,7 @@ I am in fact far, far better than that.
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
     Website:  https://node9.xyz
+        
     PGP Key:  [See page bottom](#pgp-key)
     
 ### How to participate
@@ -116,10 +117,12 @@ CrisF
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
     Website:  https://node9.xyz
-    PGP Key:  [See page bottom](#pgp-key)
+
+    PGP Key:  [See page bottom](#pgp-key)    
     
 ![n9 Footer](https://github.com/Cris-F/node-9/blob/master/n-9_banner_blanc.png "node-9")
-
+    
+    
 ### PGP Key
 
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
