@@ -124,7 +124,8 @@ PGP Key:  [See page bottom](#pgp-key)
     
 ### PGP Key
 
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBFywZfsBDACudnAIlEpkmGaewKXUYCXlTN6SHGvWoiaCWVLlIt9HDtPydMr+
 bJv5YFjFL84Z6n5alGj7aNtYfwng+bIFbegu5zPkL7V1MoFfLVni7GoIszCYbLaX
