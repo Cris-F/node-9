@@ -5,7 +5,7 @@
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 
-Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**
+Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
 
 ### Region:       EU
 
