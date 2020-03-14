@@ -4,7 +4,7 @@
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 Please send them here:  
-### Vote address: RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW              --> ![n9 Address QR](https://github.com/Cris-F/node-9/blob/master/n9_address_QR.png "node-9 vote address QR")
+### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo              --> ![n9 Address QR](https://github.com/Cris-F/node-9/blob/master/n9_address_QR.png "node-9 vote address QR")
   
 In this proposal I talk about myself a lot.  That just seems to be the clearest way to express what I am offering.  Please don't think I'm a narcissistic megalomaniac.
 I am in fact far, far better than that.  
